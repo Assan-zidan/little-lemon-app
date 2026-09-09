@@ -148,4 +148,4 @@ useEffect(() => {
 
 ## Author
 
-- Website - [Marvin Morales Pacis](https://assanzidan.dev/)
+- Website - [Assan Zidan](https://assanzidan.dev/)
